@@ -22,6 +22,16 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/Users/hershgupta/Desktop/hacks/Project-50/lib/Client.jar"/>
+	<classpathentry kind="lib" path="/Users/hershgupta/Desktop/hacks/Project-50/lib/EmacspeakServer.jar"/>
+	<classpathentry kind="lib" path="/Users/hershgupta/Desktop/hacks/Project-50/lib/FreeTTSEmacspeakServer.jar"/>
+	<classpathentry kind="lib" path="/Users/hershgupta/Desktop/hacks/Project-50/lib/FreeTTSHelloWorld.jar"/>
+	<classpathentry kind="lib" path="/Users/hershgupta/Desktop/hacks/Project-50/lib/HelloWorld.jar"/>
+	<classpathentry kind="lib" path="/Users/hershgupta/Desktop/hacks/Project-50/lib/JTime.jar"/>
+	<classpathentry kind="lib" path="/Users/hershgupta/Desktop/hacks/Project-50/lib/MixedVoices.jar"/>
+	<classpathentry kind="lib" path="/Users/hershgupta/Desktop/hacks/Project-50/lib/Player.jar"/>
+	<classpathentry kind="lib" path="/Users/hershgupta/Desktop/hacks/Project-50/lib/Server.jar"/>
+	<classpathentry kind="lib" path="/Users/hershgupta/Desktop/hacks/Project-50/lib/WebStartClock.jar"/>
 	<classpathentry kind="lib" path="/Users/hershgupta/Downloads/freetts-1.2.2-bin/freetts-1.2/bin/Client.jar"/>
 	<classpathentry kind="lib" path="/Users/hershgupta/Downloads/freetts-1.2.2-bin/freetts-1.2/bin/EmacspeakServer.jar"/>
 	<classpathentry kind="lib" path="/Users/hershgupta/Downloads/freetts-1.2.2-bin/freetts-1.2/bin/FreeTTSHelloWorld.jar"/>
